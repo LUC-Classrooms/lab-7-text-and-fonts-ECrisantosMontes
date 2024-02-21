@@ -24,6 +24,6 @@ function draw() {
   textSize(16);
   text("Mew Meow<3", 20, 160)
   }
-  pop()
+  pop();
 
 }
