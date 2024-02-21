@@ -9,8 +9,8 @@ function setup() {
 
 function draw() {
   background(4);
-  stroke(255, 100, 200);
-  fill(255, 100, 200);
+  stroke(255, 85, 190);
+  fill(255, 150, 240);
   textSize(16);
   text("Mew Meow...", 20, 60);
   textSize(32);
